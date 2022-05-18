@@ -4148,10 +4148,3 @@ input, select, textarea {
 
 	}
 
-	/* back_button */
-	#back_button {
-		position:absolute;
-		transition: .5s ease;
-		top: 50%;
-		left: 50%;
-	}
